@@ -1,1 +1,1 @@
-# WebChat1.0
+A video chatting peer-to-peer web app.
